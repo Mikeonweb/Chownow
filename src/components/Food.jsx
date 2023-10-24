@@ -38,12 +38,12 @@ const Food = () => {
           <div>
               <p className='font-bold text-gray-700'>Filter Type</p>
               <div className='flex justify-between flex-wrap'>
-                <button onClick={()=> setFoods(data)} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>All</button>
-                <button onClick={()=> filterType('swallow')} className='text-green-600 border-green-900 hover:bg-green-900 hover:text-white lg:m-1'>Swallow</button>
-                <button onClick={()=> filterType('rice')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>Rice</button>
-                <button onClick={()=> filterType('other')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>Other</button>
-                <button onClick={()=> filterType('salad')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>Salads</button>
-                <button onClick={()=> filterType('chicken')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>Chicken</button>
+                <button onClick={()=> setFoods(data)} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>All</button>
+                <button onClick={()=> filterType('swallow')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>Swallow</button>
+                <button onClick={()=> filterType('rice')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>Rice</button>
+                <button onClick={()=> filterType('other')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>Other</button>
+                <button onClick={()=> filterType('salad')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>Salads</button>
+                <button onClick={()=> filterType('chicken')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>Chicken</button>
               </div>
           </div>
 
