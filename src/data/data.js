@@ -5,7 +5,7 @@ export const data = [
       category: 'swallow',
       image:
         'https://media.istockphoto.com/id/1327486564/photo/afang-soup-with-garri.jpg?s=612x612&w=0&k=20&c=GoG1y7sP0g31_zYin0Ss7KCnv3plOyuALgY-ehQ0yeI=',
-      price: '$$$$',
+      price: 'N2,500',
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ export const data = [
       category: 'swallow',
       image:
         'https://media.istockphoto.com/id/1327486591/photo/okra-soup-with-fufu-or-pounded-yam.jpg?s=612x612&w=0&k=20&c=PpafSlYJ2wTizb5VBPo93pYd4s4ziXc9lFb1N90gYdA=',
-      price: '$',
+      price: 'N3,000',
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ export const data = [
       category: 'swallow',
       image:
         'https://media.istockphoto.com/id/1169415720/photo/regional-african-food.jpg?s=612x612&w=0&k=20&c=C6vcHrbpoKC8E513QJlDO_hhJLdrt5VRjky2gQ8wnRU=',
-      price: '$$',
+      price: 'N2,000',
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ export const data = [
       category: 'swallow',
       image:
         'https://media.istockphoto.com/id/1008392778/photo/nigerian-traditional-pounded-yam-served-with-ogbono-soup.jpg?s=612x612&w=0&k=20&c=Ewx3iIDax560-YSWG6IF78i73ioPUB7hGIHbrLSm2a4=',
-      price: '$$$',
+      price: 'N2,000',
     },
     {
       id: 5,
@@ -37,7 +37,7 @@ export const data = [
       category: 'rice',
       image:
         'https://media.istockphoto.com/id/1398351291/photo/jollof-rice-and-veggies-with-goat-meat.jpg?s=612x612&w=0&k=20&c=MImQ-sda29DOFzfEBU16M4RcPh-9F5hT9vyNrpZlGF4=',
-      price: '$$',
+      price: 'N2,000',
     },
     {
       id: 6,
@@ -45,7 +45,7 @@ export const data = [
       category: 'rice',
       image:
         'https://media.istockphoto.com/id/1448028228/photo/food-photos-various-entrees-appetizers-deserts-etc.jpg?s=612x612&w=0&k=20&c=9lpW5QXnT-_N_zWkFn3OeQShdV9BxYPSFfKqh4UTObM=',
-      price: '$$$',
+      price: 'N2,500',
     },
     {
       id: 7,
@@ -53,7 +53,7 @@ export const data = [
       category: 'rice',
       image:
         'https://images.pexels.com/photos/8969237/pexels-photo-8969237.jpeg?auto=compress&cs=tinysrgb&w=600',
-      price: '$$$$',
+      price: 'N3,000',
     },
     {
       id: 8,
@@ -61,7 +61,7 @@ export const data = [
       category: 'rice',
       image:
         'https://media.istockphoto.com/id/1650430774/photo/food-photos-various-entrees-appetizers-deserts-etc.jpg?s=612x612&w=0&k=20&c=dJ3ivZpEjQkyM3mpz47Jm-SofQEk6fb1I7XJm8TQUjk=',
-      price: '$',
+      price: 'N2,000',
     },
 
 
@@ -71,7 +71,7 @@ export const data = [
       category: 'other',
       image:
         'https://media.istockphoto.com/id/1162418358/photo/nigerian-boiled-ripe-plantain-with-spicy-vegetable-soup.jpg?s=612x612&w=0&k=20&c=XTRN6Q6LLIl39UeL7wYN_7MSHfqODozoDNHYOLSHAko=',
-      price: '$',
+      price: 'N1,000',
     },
     {
       id: 8-2,
@@ -79,7 +79,7 @@ export const data = [
       category: 'other',
       image:
         'https://media.istockphoto.com/id/1169415845/photo/regional-african-food.jpg?s=612x612&w=0&k=20&c=GTb3aNvlnIEMiAAFG0hE29pCZV-36snuoTomzbEEi2g=',
-      price: '$',
+      price: 'N1,000',
     },
     {
       id: 8-3,
@@ -87,7 +87,7 @@ export const data = [
       category: 'other',
       image:
         'https://media.istockphoto.com/id/654775018/photo/a-plate-of-beans-served-with-red-palm-oil-stew-and-a-loaf-of-bread.jpg?s=612x612&w=0&k=20&c=O0Ji-nzfxYwHonnnoV9aQ9UbCAa8ILHJMw1wekX2OJY=',
-      price: '$',
+      price: 'N1,000',
     },
     {
       id: 8-4,
@@ -95,7 +95,7 @@ export const data = [
       category: 'other',
       image:
         'https://media.istockphoto.com/id/1008418658/photo/nigerian-bean-pottage-with-deep-fried-plantains.jpg?s=612x612&w=0&k=20&c=Iak0bb5d0MCy6pfrD5Jq-pB5o4qJPQUP21csYOD0uMQ=',
-      price: '$',
+      price: 'N1,000',
     },
 
 
@@ -105,7 +105,7 @@ export const data = [
       category: 'salad',
       image:
         'https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2FsYWQlMjBjZWFzYXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
-      price: '$$',
+      price: 'N2,000',
     },
     {
       id: 10,
@@ -113,7 +113,7 @@ export const data = [
       category: 'salad',
       image:
         'https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2FsYWQlMjBjZWFzYXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
-      price: '$$$',
+      price: 'N2,500',
     },
     {
       id: 11,
@@ -121,7 +121,7 @@ export const data = [
       category: 'salad',
       image:
         'https://images.unsplash.com/photo-1540420773420-3366772f4999?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FsYWR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
-      price: '$$$$',
+      price: 'N3,000',
     },
     {
       id: 12,
@@ -129,7 +129,7 @@ export const data = [
       category: 'salad',
       image:
         'https://images.unsplash.com/photo-1564093497595-593b96d80180?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZnJ1aXQlMjBzYWxhZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60',
-      price: '$',
+      price: 'N2,000',
     },
     {
       id: 13,
@@ -137,7 +137,7 @@ export const data = [
       category: 'chicken',
       image:
         'https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
-      price: '$$',
+      price: 'N2,500',
     },
     {
       id: 14,
@@ -145,7 +145,7 @@ export const data = [
       category: 'chicken',
       image:
         'https://images.unsplash.com/photo-1594221708779-94832f4320d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
-      price: '$$$$',
+      price: 'N10,000',
     },
     {
       id: 15,
@@ -153,7 +153,7 @@ export const data = [
       category: 'chicken',
       image:
         'https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNoaWNrZW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60',
-      price: '$',
+      price: 'N2,000',
     },
     {
       id: 16,
@@ -161,7 +161,7 @@ export const data = [
       category: 'chicken',
       image:
         'https://images.unsplash.com/photo-1603360946369-dc9bb6258143?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoaWNrZW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60',
-      price: '$$$',
+      price: 'N5,000',
     },
   ];
   

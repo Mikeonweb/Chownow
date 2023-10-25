@@ -36,7 +36,7 @@ const Food = () => {
           {/* filter type  */} 
                                   {/* use onClick event to hookup button with filterType */}
           <div>
-              <p className='font-bold text-gray-700'>Filter Type</p>
+              <p className='font-bold text-gray-700 mt-6'>Filter Type</p>
               <div className='flex justify-between flex-wrap'>
                 <button onClick={()=> setFoods(data)} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>All</button>
                 <button onClick={()=> filterType('swallow')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>Swallow</button>
@@ -50,12 +50,14 @@ const Food = () => {
           {/* filter price */}
                                   {/* use onClick event to hookup button with filterPrice */}
           <div>
-              <p className='font-bold text-gray-700'>Filter Price</p>
-              <div className='flex justify-between max-w-[390px] w-full'>
-                <button onClick={()=> filterPrice('$')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>$</button>
-                <button onClick={()=> filterPrice('$$')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>$$</button>
-                <button onClick={()=> filterPrice('$$$')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>$$$</button>
-                <button onClick={()=> filterPrice('$$$$')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1'>$$$$</button>
+              <p className='font-bold text-gray-700 mt-6'>Filter Price</p>
+              <div className='flex justify-between flex-wrap'>
+                <button onClick={()=> filterPrice('N1,000')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>N1,000</button>
+                <button onClick={()=> filterPrice('N2,000')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>N2,000</button>
+                <button onClick={()=> filterPrice('N2,500')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>N2,500</button>
+                <button onClick={()=> filterPrice('N3,000')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>N3,000</button>
+                <button onClick={()=> filterPrice('N5,000')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>N5,000</button>
+                <button onClick={()=> filterPrice('N10,000')} className='text-green-600 border-green-600 hover:bg-green-900 hover:text-white lg:m-1 mt-2'>N10,000</button>
               </div>
           </div>
         </div>
